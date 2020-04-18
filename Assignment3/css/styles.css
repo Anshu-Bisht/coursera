@@ -1,0 +1,102 @@
+body {
+  font-size: 16px;
+  color: rgb(22, 22, 68);
+  background-color: grey;
+  font-family: 'Oxygen', sans-serif;
+}
+h2{
+  color: rgb(36, 22, 22);
+  text-align: center;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 25px;
+  border: 2px solid black;
+  margin:10 px;
+  overflow: auto;
+}
+.boxstyle {
+  background-color:rgb(172, 100, 112);
+  border: 1px solid black;
+  padding: 20px;
+  margin-bottom:20px;
+  overflow:auto
+
+}
+h3{
+  font-size:1.5em;
+  color:black;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+.navbar-brand {
+  padding-top: 25px;
+  padding-bottom:20px;
+}
+
+.navbar-brand h1 { /* Main name of Site*/
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  padding-bottom:20px;
+
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+  
+}
+.navbar-header button.navbar-toggle {
+  clear:left;
+  margin-top: -30px;
+}
+/* END HEADER */
+
+/* HOME PAGE */
+
+
+
+
+
+  #collapsable-nav a { /* Collapsed nav menu text */
+    font-size: 1.2em;
+  }
+  #collapsable-nav a span { /* Collapsed nav menu glyph */
+    font-size: 1em;
+    margin-right: 5px;
+  }
+
+  
+
+
+
+
